@@ -1,0 +1,59 @@
+[null,
+ 
+ {"rpa":"OCPC","pop":{"2000":203,"2010":203,"2017":203},"county":"Acre","_id":"1","name":"Acre"},
+ 
+ {"rpa":"MAPC","pop":{"2000":203,"2010":2192,"2017":2181},"county":"Alagoas","_id":"2","name":"Alagoas"},
+ 
+ {"rpa":"SRPEDD","pop":{"2000":101,"2010":103,"2017":1080},"county":"Amazonas","_id":"3","name":"Amazonas"},
+ 
+ {"rpa":"BRPC","pop":{"2000":880,"2010":848,"2017":851},"county":"Bahia","_id":"4","name":"Amapá"},
+ 
+ {"rpa":"PVPC","pop":{"2000":2814,"2010":2843,"2017":2914},"county":"Bahia","_id":"5","name":"Bahia"},
+ 
+
+{"rpa":"OCPC","pop":{"2000":1460,"2010":1598,"2017":1652},"county":"Ceará","_id":"6","name":"Ceará"},
+ 
+ {"rpa":"MAPC","pop":{"2000":20331,"2010":2194,"2017":2181},"county":"Distrito Federal","_id":"7","name":"Distrito Federal"},
+ 
+ {"rpa":"SRPEDD","pop":{"2000":10161,"2010":10303,"2017":10800},"county":"Amapá","_id":"8","name":"Espirito Santo"},
+ 
+ {"rpa":"BRPC","pop":{"2000":8809,"2010":8485,"2017":8516},"county":"Bahia","_id":"9","name":"Bahia"},
+ 
+ {"rpa":"PVPC","pop":{"2000":2814,"2010":2843,"2017":2914},"county":"Ceará","_id":"10","name":"Ceará"},
+ 
+ 
+  {"rpa":"OCPC","pop":{"2000":1405,"2010":1585,"2017":1651},"county":"Alagoas","name":"Alagoas"},
+ 
+ {"rpa":"MAPC","pop":{"2000":2031,"2010":2924,"2017":2117},"county":"Amazonas","_id":"12","name":"Amazonas"},
+ 
+ {"rpa":"SRPEDD","pop":{"2000":1061,"2010":1003,"2017":1080},"county":"Amapá","_id":"13","name":"Amapá"},
+ 
+ {"rpa":"BRPC","pop":{"2000":809,"2010":885,"2017":816,"2020":829},"county":"Bahia","name":"Bahia"},
+ 
+ {"rpa":"PVPC","pop":{"2000":2844,"2010":238,"2017":245},"county":"Ceará","_id":"15","name":"Ceará"},
+ 
+
+{"rpa":"OCPC","pop":{"2000":1465,"2010":1585,"2017":1621},"county":"Alagoas","_id":"16","name":"Alagoas"},
+ 
+ {"rpa":"MAPC","pop":{"2000":2033,"2010":2192,"2017":2181},"county":"Amazonas","_id":"17","name":"Amazonas"},
+ 
+ {"rpa":"SRPEDD","pop":{"2000":10161,"2010":1003,"2017":10800},"county":"Amapá","_id":"18","name":"Amapá"},
+ 
+ {"rpa":"BRPC","pop":{"2000":909,"2010":18511,"2017":21223},"county":"Bahia","_id":"19","name":"Rio de Janeiro"},
+ 
+ {"rpa":"PVPC","pop":{"2000":28144,"2010":7743,"2017":2614},"county":"Ceará","_id":"20","name":"Ceará"},
+ 
+ 
+ {"rpa":"OCPC","pop":{"2000":14605,"2010":1598,"2017":1652},"county":"Alagoas","_id":"21","name":"Alagoas"},
+ 
+ {"rpa":"MAPC","pop":{"2000":20331,"2010":2192,"2017":2181},"county":"Amazonas","_id":"22","name":"Amazonas"},
+ 
+ {"rpa":"SRPEDD","pop":{"2000":10161,"2010":10303,"2017":10800},"county":"Amapá","_id":"23","name":"Amapá"},
+ 
+ {"rpa":"BRPC","pop":{"2000":8809,"2010":8485,"2017":8516},"county":"Bahia","_id":"24","name":"Bahia"},
+ 
+ {"rpa":"PVPC","pop":{"2000":281,"2010":884,"2017":2914},"county":"Sao Paulo","_id":"25","name":"Sao Paulo"},
+ 
+  {"rpa":"PVPC","pop":{"2000":2814,"2010":2843,"2017":2914},"county":"Sao Paulo","_id":"26","name":"Sao Paulo"}
+ 
+]
